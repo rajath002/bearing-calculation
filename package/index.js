@@ -23,5 +23,4 @@ module.exports = {
   calculateDistance,
   toRadians,
   toDegrees,
-
 };
