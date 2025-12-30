@@ -1,0 +1,38 @@
+{
+  "name": "bearing-angle-calculator",
+  "version": "1.0.0",
+  "description": "Calculate bearing angle between two geographic coordinates for React applications",
+  "keywords": [
+    "react",
+    "bearing",
+    "latitude",
+    "longitude",
+    "bearing-angle",
+    "compass",
+    "navigation",
+    "geolocation"
+  ],
+  "license": "MIT",
+  "author": "rajath002",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "bearing.js",
+    "useBearing.js",
+    "BearingIndicator.jsx",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajath002/bearing-calculator"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
